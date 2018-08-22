@@ -6,6 +6,10 @@ Este libro es un proyecto de [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
 *Programación para escritores* es un libro de introducción a la programación para escritores, usando el lenguaje de programación Python.
 
+## Audiencia
+
+Personas que entiendan español y que quieran aprender a programar y hacer poesía, guionistas, novelistas, cuentistas
+
 ## Detalles técnicos
 
 Este proyecto vive en el repositorio de GitHub [github.com/programacion-creativa/libro-programacion-para-escritores](https://github.com/programacion-creativa/libro-programacion-para-escritores).
@@ -19,8 +23,10 @@ Este libro requiere que sepas:
 * Saber hacer click en un computador
 
 Para usar este libro necesitarás:
-* Computador
+* Computador con sistema operativo Windows
 * Teclado
+
+Opcionalmente, también requeriremos internet.
 
 ## Detalles técnicos
 
@@ -38,7 +44,7 @@ El código y los ejemplos de este libro están escritos en el [lenguaje de progr
 
 Python es un lenguaje de programación.
 
-Existen dos grandes versiones de Python: Python 2 y Python 3. En este curso usaremos Python 3, el instalador de bibliotecas pip, ambientes virtuales.
+Existen dos grandes versiones de Python: Python 2 y Python 3. En este curso usaremos Python 3, el instalador de bibliotecas pip, ambientes virtuales, y el proyecto Jupyter.
 
 La notación que usaremos para referirnos a Python3 en la terminal, será
 
@@ -46,18 +52,15 @@ La notación que usaremos para referirnos a Python3 en la terminal, será
 python3
 ```
 
-Para Python2 usaremos
+### Sobre la terminal
 
-```bash
-python2
-```
 
-TODO: explicar qué es la terminal
-TODO: explicar bash profile para configurar aliases
-TODO: explicar similitudes terminal Unix / Mac
-TODO: decidir sistema a ser usado para Windows, definir cuáles versiones de Windows
-TODO: explicar por qué usaremos Python 3
-TODO: explicar por qué usaremos ambientes virtuales
+TODO: explicar qué es la terminal  
+TODO: explicar bash profile para configurar aliases  
+TODO: explicar similitudes terminal Unix / Mac  
+TODO: decidir sistema a ser usado para Windows, definir cuáles versiones de Windows  
+TODO: explicar por qué usaremos Python 3  
+TODO: explicar por qué usaremos ambientes virtuales  
 
 
 
@@ -77,14 +80,38 @@ En computadores Linux y Mac usaremos la terminal. Puedes comprobar si ya tienes 
 python --version
 ```
 
+### Capítulos
 
-
+* Instalación
+* Ejemplos de artes mediales
+* Ejemplos de programación creativa + computadores
+* Fundamentos de programación
+* Variables
+* Strings
+* Unicode, ASCII, UTF-8
+* Diseño de interfaces
+* Lecturas adicionales recomendadas
+* Léxico (traducciones español - inglés usadas en el libro y equivalencias a otras maneras de decir las cosas en español)
 
 
 
 ## Referencias
 
 Este proyecto fue inspirado por la clase [Reading and Writing Electronic Text](http://rwet.decontextualize.com/), enseñada por [Allison Parrish](https://www.decontextualize.com/) en el programa de postgrado [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) en [New York University](https://www.nyu.edu/), donde Aarón cursó esta clase en su último semestre, enero-mayo 2016.
+
+Explicar influencia p5.js, Processing, NYU ITP, SFPC, School of Machines.
+
+## Agradecimientos
+
+NYU ITP
+
+CODED
+
+SFPC
+
+School of Ma
+
+Family + friends
 
 ## Contacto
 
@@ -93,4 +120,4 @@ Puedes usar el sistema de "Issues" de GitHub de este repositorio y también pued
 
 ## Licencia
 
-[MIT License]()
+[MIT License](LICENSE)
