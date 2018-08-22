@@ -86,10 +86,18 @@ python --version
 * Ejemplos de artes mediales
 * Ejemplos de programación creativa + computadores
 * Fundamentos de programación
-* Variables
+* Variables y memoria
 * Strings
-* Unicode, ASCII, UTF-8
+* Codificación de caracteres
+* Arreglos y listas
+* Funciones y modularidad
+* Iteración
 * Diseño de interfaces
+* Cadenas de Markov
+* Char-rnn
+* Pytracery
+* Natural Language Processing
+*
 * Lecturas adicionales recomendadas
 * Léxico (traducciones español - inglés usadas en el libro y equivalencias a otras maneras de decir las cosas en español)
 
