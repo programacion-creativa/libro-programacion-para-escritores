@@ -43,26 +43,42 @@ Este libro está escrito en [Markdown](https://es.wikipedia.org/wiki/Markdown) y
 
 El código y los ejemplos de este libro están escritos en el [lenguaje de programación](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n) [Python](https://es.wikipedia.org/wiki/Python) y pueden ser ejecutados usando [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
 
-## Sobre Python y la notación
+## Sobre Python y el entorno de programación
 
 Python es un lenguaje de programación.
 
 Existen dos grandes versiones de Python: Python 2 y Python 3. En este curso usaremos Python 3, el instalador de bibliotecas pip, ambientes virtuales, y el proyecto Jupyter.
 
-La notación que usaremos para referirnos a Python3 en la terminal, será
+## Glosario
+
 
 ```bash
 python3
 ```
 
+* Tecla ENTER / ENTRAR
+TODO: agregar imagen
+
+
 ## Instalación del entorno de programación
 
-* Descarga este repositorio desde la página web [github.com/programacion-creativa/libro-programacion-para-escritores](https://github.com/programacion-creativa/libro-programacion-para-escritores) y descomprime el archivo zip.
+* Descarga este repositorio desde la página web [github.com/programacion-creativa/libro-programacion-para-escritores](https://github.com/programacion-creativa/libro-programacion-para-escritores) y descomprime el archivo zip. Te recomiendo ubicar en tu escritorio esta carpeta "libro-programacion-para-escritores"
 
-* Abre la terminal de tu computador.
-  * En Linux, abre tu consola.
-  * En Mac, abre la aplicación "Terminal".
+* Abre la aplicación terminal de tu computador. En cada sistema operativo tiene nombres distintos:
+  * En Linux se llama consola.
+  * En Mac se llama "Terminal".
   * En Windows, abre la aplicación "cmd".
+
+* La terminal siempre está apuntando a una carpeta de tu computador. Para ver los contenidos de la carpeta inicial,  escribe "ls" y luego presiona "Enter" o "Entrar".
+
+```bash
+ls
+```
+
+* Revisa si en tu computador existe la carpeta "Escritorio" o "Desktop" y has
+
+
+
 
 
 
