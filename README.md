@@ -141,20 +141,18 @@ Explicar influencia p5.js, Processing, NYU ITP, SFPC, School of Machines.
 
 ## Agradecimientos
 
-NYU ITP
+* [CODED](https://tisch.nyu.edu/itp)
 
-CODED
+* [NYU ITP](https://tisch.nyu.edu/itp)
 
-SFPC
+* [School of Ma](http://schoolofma.org/)
 
-School of Ma
+* [SFPC](http://sfpc.io/)
 
-Family + friends
 
 ## Contacto
 
 Puedes usar el sistema de "Issues" de GitHub de este repositorio y también puedes contactar al autor a su correo electrónico montoyamoraga@gmail.com con asunto *programacion-creativa-para-escritores:contacto*.
-
 
 ## Licencia
 
