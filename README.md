@@ -141,7 +141,7 @@ Explicar influencia p5.js, Processing, NYU ITP, SFPC, School of Machines.
 
 ## Agradecimientos
 
-* [CODED](https://tisch.nyu.edu/itp)
+* [CODED](http://codedescuela.cl/)
 
 * [NYU ITP](https://tisch.nyu.edu/itp)
 
