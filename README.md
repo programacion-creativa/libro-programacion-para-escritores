@@ -6,13 +6,16 @@ Este libro es un proyecto de [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
 *Programación para escritores* es un libro de introducción a la programación para escritores, usando el lenguaje de programación Python.
 
+Este libro está basado en el trabajo realizado por [Allison Parrish](https://www.decontextualize.com/), en particular su clase [Reading and Writing Electronic Text](http://rwet.decontextualize.com/).
+
 ## Audiencia
 
-Personas que entiendan español y que quieran aprender a programar y hacer poesía, guionistas, novelistas, cuentistas
+Personas que entiendan español y que quieran aprender a programar y hacer poesía, guionistas, novelistas, cuentistas.
 
 ## Detalles técnicos
 
-Este proyecto vive en el repositorio de GitHub [github.com/programacion-creativa/libro-programacion-para-escritores](https://github.com/programacion-creativa/libro-programacion-para-escritores).
+Este proyecto está alojado en el repositorio de GitHub [github.com/programacion-creativa/libro-programacion-para-escritores](https://github.com/programacion-creativa/libro-programacion-para-escritores).
+
 
 ## Prerrequisitos
 
@@ -51,6 +54,17 @@ La notación que usaremos para referirnos a Python3 en la terminal, será
 ```bash
 python3
 ```
+
+## Instalación del entorno de programación
+
+* Descarga este repositorio desde la página web [github.com/programacion-creativa/libro-programacion-para-escritores](https://github.com/programacion-creativa/libro-programacion-para-escritores) y descomprime el archivo zip.
+
+* Abre la terminal de tu computador.
+  * En Linux, abre tu consola.
+  * En Mac, abre la aplicación "Terminal".
+  * En Windows, abre la aplicación "cmd".
+
+
 
 ### Sobre la terminal
 
